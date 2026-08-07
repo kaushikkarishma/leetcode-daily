@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0206-reverse-linked-list) |
+## String
+|  |
+| ------- |
+| [3614-process-string-with-special-operations-ii](https://github.com/kaushikkarishma/leetcode-daily/tree/master/3614-process-string-with-special-operations-ii) |
+## Simulation
+|  |
+| ------- |
+| [3614-process-string-with-special-operations-ii](https://github.com/kaushikkarishma/leetcode-daily/tree/master/3614-process-string-with-special-operations-ii) |
 <!---LeetCode Topics End-->
