@@ -20,9 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0125-valid-palindrome) |
 | [3614-process-string-with-special-operations-ii](https://github.com/kaushikkarishma/leetcode-daily/tree/master/3614-process-string-with-special-operations-ii) |
 ## Simulation
 |  |
 | ------- |
 | [3614-process-string-with-special-operations-ii](https://github.com/kaushikkarishma/leetcode-daily/tree/master/3614-process-string-with-special-operations-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
