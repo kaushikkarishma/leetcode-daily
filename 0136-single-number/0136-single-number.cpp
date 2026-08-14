@@ -1,13 +1,11 @@
+//T.C=O(n)
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        for(int i=0;i<nums.size();i++){
-            int ans = count(nums.begin(), nums.end(), nums[i]);
-            if(ans==1){
-                return nums[i];
-            }
+        int ans = 0;
+        for(int i = 0; i < nums.size(); i++) {
+            ans = ans ^ nums[i]; //ON OFF concept
         }
-        return 0;
+        return ans;
     }
-    
 };
