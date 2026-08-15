@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0141-linked-list-cycle) |
+| [0560-subarray-sum-equals-k](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
 | ------- |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0136-single-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
