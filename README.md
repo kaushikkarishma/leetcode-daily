@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0875-koko-eating-bananas) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/kaushikkarishma/leetcode-daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
