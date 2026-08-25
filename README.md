@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0035-search-insert-position) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0007-reverse-integer) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kaushikkarishma/leetcode-daily/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
