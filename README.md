@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0009-palindrome-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kaushikkarishma/leetcode-daily/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
