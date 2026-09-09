@@ -1,11 +1,11 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        unordered_map<int,int>mp;
-        for(char x:s){
+        unordered_map<char,int>mp;
+        for(auto x:s){
             mp[x]++;
         }
-        for(char y:t){
+        for(auto y:t){
             mp[y]--;
         }
         for(auto it:mp){
