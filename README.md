@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0229-majority-element-ii](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0704-binary-search) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0141-linked-list-cycle) |
+| [0229-majority-element-ii](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0242-valid-anagram) |
 ## Queue
 |  |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
@@ -131,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0509-fibonacci-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
