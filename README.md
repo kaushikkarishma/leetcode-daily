@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0509-fibonacci-number) |
 ## Database
