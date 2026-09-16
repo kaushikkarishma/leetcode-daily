@@ -1,3 +1,4 @@
+//T.C=O(n^2) , S.C=O(n^2)
 class Solution {
 public:
     vector<vector<int>> generate(int numRows) {
