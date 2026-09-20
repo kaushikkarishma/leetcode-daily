@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0912-sort-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kaushikkarishma/leetcode-daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kaushikkarishma/leetcode-daily/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0136-single-number) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kaushikkarishma/leetcode-daily/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0509-fibonacci-number) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kaushikkarishma/leetcode-daily/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kaushikkarishma/leetcode-daily/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0509-fibonacci-number) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kaushikkarishma/leetcode-daily/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Database
 |  |
 | ------- |
@@ -128,10 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0144-binary-tree-preorder-traversal) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kaushikkarishma/leetcode-daily/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0144-binary-tree-preorder-traversal) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kaushikkarishma/leetcode-daily/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |
