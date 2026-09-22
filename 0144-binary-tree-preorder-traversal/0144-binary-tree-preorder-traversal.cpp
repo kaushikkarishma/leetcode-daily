@@ -13,10 +13,9 @@ class Solution {
 public:
 void preorder(TreeNode*root,vector<int>&ans){
     if(root==NULL) return;
-        ans.push_back(root->val);
-        preorder(root->left,ans);
+        ans.push_back(root->val);   //root ki val ab ans hai
+        preorder(root->left,ans); //left complete kro
         preorder(root->right,ans);
-    
 }
     vector<int> preorderTraversal(TreeNode* root) {
         vector<int>ans;
