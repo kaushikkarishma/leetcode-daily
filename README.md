@@ -131,16 +131,19 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kaushikkarishma/leetcode-daily/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kaushikkarishma/leetcode-daily/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0144-binary-tree-preorder-traversal) |
 ## Memoization
 |  |
@@ -174,4 +177,8 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0912-sort-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
