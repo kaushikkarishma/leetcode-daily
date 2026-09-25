@@ -75,6 +75,7 @@ A collection of questions - Created using [LeetHub v2](https://github.com/arunbh
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
@@ -131,6 +132,7 @@ A collection of questions - Created using [LeetHub v2](https://github.com/arunbh
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0144-binary-tree-preorder-traversal) |
@@ -138,6 +140,7 @@ A collection of questions - Created using [LeetHub v2](https://github.com/arunbh
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0144-binary-tree-preorder-traversal) |
@@ -145,6 +148,7 @@ A collection of questions - Created using [LeetHub v2](https://github.com/arunbh
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0144-binary-tree-preorder-traversal) |
