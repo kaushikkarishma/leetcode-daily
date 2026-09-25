@@ -1,6 +1,6 @@
 A collection of questions - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
-# Problem Topics
+# LeetCode Topics
 ## Array
 |  |
 | ------- |
@@ -131,18 +131,21 @@ A collection of questions - Created using [LeetHub v2](https://github.com/arunbh
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kaushikkarishma/leetcode-daily/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kaushikkarishma/leetcode-daily/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0144-binary-tree-preorder-traversal) |
 ## Memoization
@@ -181,4 +184,8 @@ A collection of questions - Created using [LeetHub v2](https://github.com/arunbh
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
